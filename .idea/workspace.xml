@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="634523c6-2750-4960-8a1d-ff616f92bd52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/verifyToken.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/actors.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/actors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/films.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/films.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="false" transferred="true" />
@@ -58,7 +63,10 @@
       <updated>1607164211887</updated>
       <workItem from="1607164213763" duration="8904000" />
       <workItem from="1607213631417" duration="41000" />
-      <workItem from="1607221039915" duration="53000" />
+      <workItem from="1607221039915" duration="1377000" />
+      <workItem from="1607298046889" duration="84000" />
+      <workItem from="1607298275140" duration="92000" />
+      <workItem from="1607298479824" duration="2645000" />
     </task>
     <servers />
   </component>
